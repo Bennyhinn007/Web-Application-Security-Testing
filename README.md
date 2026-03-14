@@ -96,9 +96,6 @@ Recording each vulnerability with:
 web-vulnerability-assessment
 │
 ├── screenshots
-│   ├── sql-injection.png
-│   ├── xss-attack.png
-│   └── zap-scan.png
 │
 ├── reports
 │   └── security-assessment-report.pdf
