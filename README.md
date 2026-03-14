@@ -1,4 +1,5 @@
-# 🔐 Web Application Vulnerability Assessment
+# 🔐 Web Application Security Testing
+
 
 ![Security](https://img.shields.io/badge/Cybersecurity-Vulnerability%20Assessment-red?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-orange?style=for-the-badge)
